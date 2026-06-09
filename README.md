@@ -1,5 +1,5 @@
 # LoWARec
-This is the pytorch implementation of our paper [pdf]: https://link.springer.com/chapter/10.1007/978-981-92-0363-5_15	"pdf"
+This is the pytorch implementation of our paper [[pdf](https://link.springer.com/chapter/10.1007/978-981-92-0363-5_15)]: 
 
 ```
 Low-Rank Guided Attention with Wavelet Augmentation for Sequential Recommendation.
